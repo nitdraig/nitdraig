@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nitdraig
+- 👀 I’m interested in music, programing and arts
+- 🌱 I’m currently learning programing
