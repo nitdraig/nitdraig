@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working in Advance Valley<br>i'm looking to collaborate with people intersting<br>i'm in college, same time study Web Development, QA, team managment & IA<br>Ask me about QA, team leadering & web development <br>I'm looking for collaborates and teams works
+<br>i'm looking to collaborate with people intersting<br>i'm in college, same time study Web Development, QA, team managment & IA<br>Ask me about QA, team leadering & web development <br>I'm looking for collaborates and teams works
 
 
 ## 🌐 Socials:
