@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 👋 I'm Agustín, a Fullstack Web Developer 🌐 on a mission to lead development teams 🚀 and create star products. [ HTML | CSS | JAVASCRIPT | REACT | NEXT.JS | EXPRESS | NODE.JS | PYTHON | BOOTSTRAP | MUI | TAILWIND | SCRUM | TEAM MANAGEMENT ] 🛠️<br><br>English level: B1. 📌<br>Fullstack developer jr. 🇦🇷<br>QA - Tester 🥚<br>Front End Dev at Orange - Alura LATAM 🍊<br><br>🌟 Constantly improving my skills and passionate about web development. 🌐<br><br>Join me on LinkedIn and explore my web portfolio to discover my projects and more. Thanks for stopping by! 🚀🌟📝
+Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mission is create star products. [ HTML, CSS, JavaScript, React, Next.js, Express, Node.js, Python, Typescript, MUI y Tailwind.] 🛠️<br><br>English level: B1. 📌<br>Fullstack developer 🇦🇷<br> QA - Tester 🥚<br>Front End Dev at Orange - Alura LATAM 🍊<br> <br>FullStack Web Developer - Argentina Programa 🍊<br><br>🌟 Constantly improving my skills and passionate about web development. 🌐<br><br>Join me on LinkedIn and explore my web portfolio to discover my projects and more. Thanks for stopping by! 🚀🌟📝
 
 
 ## 🌐 Socials:
