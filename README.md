@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mission is create star products. [ HTML, CSS, JavaScript, React, Next.js, Express, Node.js, Python, Typescript, MUI y Tailwind.] 🛠️<br><br>English level: B1. 📌<br>IT Project Manager🗒️ <br> <br>Fullstack developer 🇦🇷<br> QA - Tester 🥚<br>Front End Dev at Orange - Alura LATAM 🍊<br><br>FullStack Web Developer - Argentina Programa 💼<br>🌟 Constantly improving my skills and passionate about web development. 🌐<br><br>Join me on LinkedIn and explore my web portfolio to discover my projects and more. Thanks for stopping by! 🚀🌟📝
+![](https://komarev.com/ghpvc/?username=nitdraig)
 
 
 ## 🌐 Socials:
