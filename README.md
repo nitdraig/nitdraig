@@ -5,9 +5,9 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
 
 ## 📌My Projects:
 
-[![Skipy.top](https://img.shields.io/badge/Skipy.top-blue?logo=https%3A%2F%2Fres.cloudinary.com%2Fdraig%2Fimage%2Fupload%2Fv1705703103%2FSkipy%2Fbuyvv2raasztznogzg8g.png)](https://skipy.top)
+[![Skipy.top](https://img.shields.io/badge/Skipy.top-blue?logo=opensourceinitiative)](https://skipy.top)
 [![Mailprex.top](https://img.shields.io/badge/Mailprex.top-darkblue?logo=rocket)](https://mailprex.top)
-[![Fuddy.click](https://img.shields.io/badge/Fuddy.click-darkcyan?logo=https%3A%2F%2Fres.cloudinary.com%2Fdraig%2Fimage%2Fupload%2Fv1694804873%2Ffuddy%2Fx3c0jyse51halioek934.png)](https://fuddy.click)
+[![Fuddy.click](https://img.shields.io/badge/Fuddy.click-darkcyan?logo=https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png)](https://fuddy.click)
 
 
 
