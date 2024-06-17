@@ -2,6 +2,9 @@
 # 💫 About Me:
 Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mission is create star products. [ HTML, CSS, JavaScript, React, Next.js, Astro, Express, Node.js, Python, Typescript, MUI y Tailwind.] 🛠️<br><br>English level: B1. 📌<br>IT Project Manager🗒️ <br> <br>Fullstack developer 🇦🇷<br> QA - Tester 🥚<br>Front End Dev at Orange - Alura LATAM 🍊<br><br>FullStack Web Developer - Argentina Programa 💼<br>🌟 Constantly improving my skills and passionate about web development. 🌐<br><br>Join me on LinkedIn and explore my web portfolio to discover my projects and more. Thanks for stopping by! 🚀🌟📝
 
+## My Projects
+[https://img.shields.io/badge/skipy-blue](https://skipy.top)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avellaneda-agustín-tns/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nitdraig) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@draig) 
 
