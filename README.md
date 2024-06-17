@@ -3,8 +3,8 @@
 Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mission is create star products. [ HTML, CSS, JavaScript, React, Next.js, Astro, Express, Node.js, Python, Typescript, MUI y Tailwind.] 🛠️<br><br>English level: B1. 📌<br>IT Project Manager🗒️ <br> <br>Fullstack developer 🇦🇷<br> QA - Tester 🥚<br>Front End Dev at Orange - Alura LATAM 🍊<br><br>FullStack Web Developer - Argentina Programa 💼<br>🌟 Constantly improving my skills and passionate about web development. 🌐<br><br>Join me on LinkedIn and explore my web portfolio to discover my projects and more. Thanks for stopping by! 🚀🌟📝
 
 ## My Projects
-[![Static Badge](https://img.shields.io/badge/Skipy.top-blue)](https://skipy.top) [![Static Badge](https://img.shields.io/badge/Mailprex.top-darkblue)](https://mailprex.top) [![Static Badge](https://img.shields.io/badge/Fuddy.click-darkcyan)](https://fuddy.click)
-
+My Projects
+[![Static Badge](https://img.shields.io/badge/Skipy.top-blue?logo=https://res.cloudinary.com/tu-cloudname/image/upload/v1684336800/skipy-icon.png)](https://skipy.top) [![Static Badge](https://img.shields.io/badge/Mailprex.top-darkblue?logo=https://res.cloudinary.com/tu-cloudname/image/upload/v1684336800/mailprex-icon.png)](https://mailprex.top) [![Static Badge](https://img.shields.io/badge/Fuddy.click-darkcyan?logo=https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png)](https://fuddy.click)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avellaneda-agustín-tns/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nitdraig) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@draig) 
