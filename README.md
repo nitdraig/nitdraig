@@ -5,9 +5,10 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
 
 ## 📌My Projects:
 
-[<img src="https://res.cloudinary.com/draig/image/upload/v1718659648/Skipy/dd2xu82at8rf5on5gfym.png" width="20"/> ![Static Badge](https://img.shields.io/badge/Skipy.top-blue)](https://skipy.top)
-[<img src="https://res.cloudinary.com/draig/image/upload/v1718558756/mailprex/oygtrydqxplmyi6gp9iz.png" width="20"/> ![Static Badge](https://img.shields.io/badge/Mailprex.top-darkblue)](https://mailprex.top)
-[<img src="https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png" width="20"/> ![Static Badge](https://img.shields.io/badge/Fuddy.click-darkcyan)](https://fuddy.click)
+- [Skipy.top](https://skipy.top) - Multi-tool focused on developers![Skipy Icon](https://res.cloudinary.com/draig/image/upload/v1718659648/Skipy/dd2xu82at8rf5on5gfym.png)
+- [Mailprex.top](https://mailprex.top) -Platform for submitting forms with a dereact hook![Mailprex Icon](https://res.cloudinary.com/draig/image/upload/v1718558756/mailprex/oygtrydqxplmyi6gp9iz.png)
+- [Fuddy.click](https://fuddy.click) - Healthy Recipe Recommendations WebApp with AI![Fuddy Icon](https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png)
+
 
 
 
