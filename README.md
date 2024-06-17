@@ -5,9 +5,30 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
 
 ## 📌My Projects:
 
-- [Skipy.top](https://skipy.top) - Multi-tool focused on developers![Skipy Icon](https://res.cloudinary.com/draig/image/upload/v1718659648/Skipy/dd2xu82at8rf5on5gfym.png)
-- [Mailprex.top](https://mailprex.top) -Platform for submitting forms with a dereact hook![Mailprex Icon](https://res.cloudinary.com/draig/image/upload/v1718558756/mailprex/oygtrydqxplmyi6gp9iz.png)
-- [Fuddy.click](https://fuddy.click) - Healthy Recipe Recommendations WebApp with AI![Fuddy Icon](https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png)
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="flex: 1;">
+        <a href="https://skipy.top">
+            <img src="https://res.cloudinary.com/draig/image/upload/v1718659648/Skipy/dd2xu82at8rf5on5gfym.png" alt="Skipy Icon" style="max-width: 100px;">
+        </a>
+        <br>
+        <a href="https://skipy.top">Skipy.top</a> - Multi-tool focused on developers
+    </div>
+    <div style="flex: 1;">
+        <a href="https://mailprex.top">
+            <img src="https://res.cloudinary.com/draig/image/upload/v1718558756/mailprex/oygtrydqxplmyi6gp9iz.png" alt="Mailprex Icon" style="max-width: 100px;">
+        </a>
+        <br>
+        <a href="https://mailprex.top">Mailprex.top</a> - Platform for submitting forms with a dereact hook
+    </div>
+    <div style="flex: 1;">
+        <a href="https://fuddy.click">
+            <img src="https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png" alt="Fuddy Icon" style="max-width: 100px;">
+        </a>
+        <br>
+        <a href="https://fuddy.click">Fuddy.click</a> - Healthy Recipe Recommendations WebApp with AI
+    </div>
+</div>
+
 
 
 
