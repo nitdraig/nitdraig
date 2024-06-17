@@ -16,7 +16,7 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
         <a href="https://mailprex.top">
             <img src="https://res.cloudinary.com/draig/image/upload/v1718558756/mailprex/oygtrydqxplmyi6gp9iz.png" alt="Mailprex Icon" style="width: 100px;">
         </a>
-                <a href="https://mailprex.top">Mailprex.top</a> - Platform for submitting forms with a dereact hook
+                <a href="https://mailprex.top">Mailprex.top</a> - Platform for submitting forms with a react hook
     </div>
     <div style="flex: 1;">
         <a href="https://fuddy.click">
