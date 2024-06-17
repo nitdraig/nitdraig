@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=nitdraig&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 # 💫 About Me:
-Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mission is create star products. [ HTML, CSS, JavaScript, React, Next.js, Astro, Express, Node.js, Python, Typescript, MUI y Tailwind.] 🛠️<br>IT Project Manager🗒️  | Fullstack developer 🇦🇷 | QA - Tester 🥚 Front End Dev at Orange - Alura LATAM 🍊 | FullStack Web Developer - Argentina Programa 💼<br>🌟 Constantly improving my skills and passionate about web development. 🌐<br>Join me on LinkedIn and explore my web portfolio to discover more about me. 🚀🌟📝
+Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mission is create star products. [ HTML, CSS, JavaScript, React, Next.js, Astro, Express, Node.js, Python, Typescript, MUI y Tailwind.] 🛠️<br>IT Project Manager🗒️  | Fullstack developer 🇦🇷 | QA - Tester 🥚 <br> Front End Dev at Orange - Alura LATAM 🍊 | FullStack Web Developer - Argentina Programa 💼<br>🌟 Constantly improving my skills and passionate about web development. 🌐<br>Join me on LinkedIn and explore my web portfolio to discover more about me. 🚀🌟📝
 
 ## My Projects
 
