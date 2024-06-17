@@ -11,31 +11,28 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
         <img src="https://res.cloudinary.com/draig/image/upload/v1718659648/Skipy/dd2xu82at8rf5on5gfym.png" alt="Skipy Icon" width="100">
       </a>
     </td>
-    <td style="vertical-align: middle;">
+    <td style="vertical-align: top;">
       <p><strong>Skipy.top</strong><br>Multi-tool focused on developers.</p>
     </td>
-  </tr>
-  <tr>
     <td style="text-align: center;">
       <a href="https://mailprex.top">
         <img src="https://res.cloudinary.com/draig/image/upload/v1718558756/mailprex/oygtrydqxplmyi6gp9iz.png" alt="Mailprex Icon" width="100">
       </a>
     </td>
-    <td style="vertical-align: middle;">
+    <td style="vertical-align: top;">
       <p><strong>Mailprex.top</strong><br>Platform for submitting forms with a dereact hook.</p>
     </td>
-  </tr>
-  <tr>
     <td style="text-align: center;">
       <a href="https://fuddy.click">
         <img src="https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png" alt="Fuddy Icon" width="100">
       </a>
     </td>
-    <td style="vertical-align: middle;">
+    <td style="vertical-align: top;">
       <p><strong>Fuddy.click</strong><br>Healthy Recipe Recommendations WebApp with AI.</p>
     </td>
   </tr>
 </table>
+
 
 
 ## 🌐 Socials:
