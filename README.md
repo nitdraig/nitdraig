@@ -5,26 +5,29 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
 
 ## 📌My Projects:
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <div style="flex: 1;">
+<div style="display: flex; gap: 20px;">
+    <div style="flex: 1; text-align: center;">
         <a href="https://skipy.top">
             <img src="https://res.cloudinary.com/draig/image/upload/v1718659648/Skipy/dd2xu82at8rf5on5gfym.png" alt="Skipy Icon" style="width: 80px;">
+            <br>
+            <span>Skipy.top</span>
         </a>
-        <br>
-        <a href="https://skipy.top">Skipy.top</a> - Multi-tool focused on developers
+    </div>
+    <div style="flex: 1; text-align: center;">
         <a href="https://mailprex.top">
             <img src="https://res.cloudinary.com/draig/image/upload/v1718558756/mailprex/oygtrydqxplmyi6gp9iz.png" alt="Mailprex Icon" style="width: 80px;">
+            <br>
+            <span>Mailprex.top</span>
         </a>
-        <br>
-        <a href="https://mailprex.top">Mailprex.top</a> - Platform for submitting forms with a dereact hook
+    </div>
+    <div style="flex: 1; text-align: center;">
         <a href="https://fuddy.click">
             <img src="https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png" alt="Fuddy Icon" style="width: 80px;">
+            <br>
+            <span>Fuddy.click</span>
         </a>
-        <br>
-        <a href="https://fuddy.click">Fuddy.click</a> - Healthy Recipe Recommendations WebApp with AI
     </div>
 </div>
-
 
 
 
