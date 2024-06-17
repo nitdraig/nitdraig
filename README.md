@@ -3,7 +3,7 @@
 Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mission is create star products. [ HTML, CSS, JavaScript, React, Next.js, Astro, Express, Node.js, Python, Typescript, MUI y Tailwind.] 🛠️<br>  <br> Front End Developer - Oracle Next Education 🍊 | FullStack Web Developer - Argentina Programa 💼 | QA - Tester - T.TEC CATAMARCA 🥚<br>🌟 Constantly improving my skills and passionate about web development. 🌐
 <br>Join me on LinkedIn and explore my web portfolio to discover more about me. 🚀🌟📝
 
-## My Projects
+## 📌My Projects:
 
 [<img src="https://res.cloudinary.com/draig/image/upload/v1705703103/Skipy/buyvv2raasztznogzg8g.png" width="20"/> ![Static Badge](https://img.shields.io/badge/Skipy.top-blue)](https://skipy.top)
 [<img src="https://res.cloudinary.com/draig/image/upload/v1718558756/mailprex/oygtrydqxplmyi6gp9iz.png" width="20"/> ![Static Badge](https://img.shields.io/badge/Mailprex.top-darkblue)](https://mailprex.top)
