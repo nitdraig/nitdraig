@@ -3,7 +3,7 @@
 Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mission is create star products. [ HTML, CSS, JavaScript, React, Next.js, Astro, Express, Node.js, Python, Typescript, MUI y Tailwind.] 🛠️<br><br>English level: B1. 📌<br>IT Project Manager🗒️ <br> <br>Fullstack developer 🇦🇷<br> QA - Tester 🥚<br>Front End Dev at Orange - Alura LATAM 🍊<br><br>FullStack Web Developer - Argentina Programa 💼<br>🌟 Constantly improving my skills and passionate about web development. 🌐<br><br>Join me on LinkedIn and explore my web portfolio to discover my projects and more. Thanks for stopping by! 🚀🌟📝
 
 ## My Projects
-[![Static Badge](https://img.shields.io/badge/Skipy.top-blue-style=plastic)](https://skipy.top) [![Static Badge](https://img.shields.io/badge/Mailprex.top-darkblue-style=plastic)](https://mailprex.top) [![Static Badge](https://img.shields.io/badge/Fuddy.click-style=plastic&color=%FFFC9F&labelColor=black)](https://fuddy.click)
+[![Static Badge](https://img.shields.io/badge/Skipy.top-style-blue)](https://skipy.top) [![Static Badge](https://img.shields.io/badge/Mailprex.top-darkblue)](https://mailprex.top) [![Static Badge](https://img.shields.io/badge/Fuddy.click-style=plastic&color=%FFFC9F&labelColor=black)](https://fuddy.click)
 
 
 ## 🌐 Socials:
