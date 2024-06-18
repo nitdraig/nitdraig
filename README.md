@@ -20,7 +20,7 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
       </a>
     </td>
     <td style="vertical-align: top;">
-      <p><strong>Mailprex.top</strong><br>Platform for submitting forms with a dereact hook.</p>
+      <p><strong>Mailprex.top</strong><br>Platform for submitting forms with a react hook.</p>
     </td>
     <td style="text-align: center;">
       <a href="https://fuddy.click">
