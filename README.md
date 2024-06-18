@@ -16,7 +16,7 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
     </td>
     <td style="text-align: center;">
       <a href="https://mailprex.top">
-        <img src="https://res.cloudinary.com/draig/image/upload/v1718558756/mailprex/oygtrydqxplmyi6gp9iz.png" alt="Mailprex Icon" width="100">
+        <img src="https://res.cloudinary.com/draig/image/upload/v1717633081/mailprex/iwzlpdbt3uclxt5mwll3.png" alt="Mailprex Icon" width="100">
       </a>
     </td>
     <td style="vertical-align: top;">
