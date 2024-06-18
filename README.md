@@ -47,10 +47,6 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nitdraig&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitdraig&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randomer2.onrender.com/' style="height: 400px;"/>
-
----
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
