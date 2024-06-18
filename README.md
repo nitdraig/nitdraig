@@ -3,7 +3,7 @@
 Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mission is create star products. [ HTML, CSS, JavaScript, React, Next.js, Astro, Express, Node.js, Python, Typescript, MUI y Tailwind.] 🛠️<br>  <br> Front End Developer - Oracle Next Education 🍊 | FullStack Web Developer - Argentina Programa 💼 | QA - Tester - T.TEC CATAMARCA 🥚<br>🌟 Constantly improving my skills and passionate about web development. 🌐
 <br>Join me on LinkedIn and explore my web portfolio to discover more about me. 🚀🌟📝
 
-## 📌My Projects:
+## 📌Some of my projects:
 <table>
   <tr>
     <td style="text-align: center;">
@@ -48,7 +48,7 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitdraig&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randomer-wheat.vercel.app/' style="height: 400px;"/>
 
 ---
 
