@@ -30,6 +30,17 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
     <td style="vertical-align: top;">
       <p><strong>Fuddy.click</strong><br>Healthy Recipe Recommendations WebApp with AI.</p>
     </td>
+    
+  </tr>
+  <tr>
+     <td style="text-align: center;">
+      <a href="https://c-ui.agustin.top">
+        <img src="https://c-ui.agustin.top/logo.png" alt="C-UI Icon" width="100">
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      <p><strong>C-UI</strong><br>A simple component library for React/NextJS, using TailwindCSS.</p>
+    </td>
   </tr>
 </table>
 
