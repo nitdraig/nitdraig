@@ -39,7 +39,7 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
       </a>
     </td>
     <td style="vertical-align: top;">
-      <p><strong>C-UI</strong><br>A simple component library for React/NextJS, using TailwindCSS.</p>
+      <p><strong>c-ui.agustin.top</strong><br>A simple component library for React/NextJS, using TailwindCSS.</p>
     </td>
   </tr>
 </table>
