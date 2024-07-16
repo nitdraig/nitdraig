@@ -12,7 +12,7 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
       </a>
     </td>
     <td style="vertical-align: top;">
-      <p><strong>Skipy.top</strong><br>Multi-tool focused on developers.</p>
+      <p><strong>Skipy</strong><br>Multi-tool focused on developers.</p>
     </td>
     <td style="text-align: center;">
       <a href="https://mailprex.top">
@@ -20,7 +20,7 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
       </a>
     </td>
     <td style="vertical-align: top;">
-      <p><strong>Mailprex.top</strong><br>Platform for submitting forms with a react hook.</p>
+      <p><strong>Mailprex</strong><br>Platform for submitting forms with a react hook.</p>
     </td>
     <td style="text-align: center;">
       <a href="https://fuddy.click">
@@ -28,7 +28,7 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
       </a>
     </td>
     <td style="vertical-align: top;">
-      <p><strong>Fuddy.click</strong><br>Healthy Recipe Recommendations WebApp with AI.</p>
+      <p><strong>Fuddy</strong><br>Healthy Recipe Recommendations WebApp with AI.</p>
     </td>
     
   </tr>
@@ -39,7 +39,7 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
       </a>
     </td>
     <td style="vertical-align: top;">
-      <p><strong>c-ui.agustin.top</strong><br>A simple component library for React/NextJS, using TailwindCSS.</p>
+      <p><strong>C-UI</strong><br>A simple component library for React/NextJS, using TailwindCSS.</p>
     </td>
  <td style="text-align: center;">
       <a href="https://en.blog.agustin.top">
@@ -47,7 +47,7 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
       </a>
     </td>
     <td style="vertical-align: top;">
-      <p><strong>MyBlog</strong><br>A Personal Blog about IT Themes.</p>
+      <p><strong>My Blog</strong><br>A Personal Blog about IT.</p>
     </td>
     </tr>
 </table>
