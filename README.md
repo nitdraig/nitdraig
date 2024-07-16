@@ -41,7 +41,15 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
     <td style="vertical-align: top;">
       <p><strong>c-ui.agustin.top</strong><br>A simple component library for React/NextJS, using TailwindCSS.</p>
     </td>
-  </tr>
+ <td style="text-align: center;">
+      <a href="https://en.blog.agustin.top">
+        <img src="https://res.cloudinary.com/draig/image/upload/v1709756634/portolio-personal/arvueir4os53p12ufawc.ico" alt="C-UI Icon" width="100">
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      <p><strong>MyBlog</strong><br>A Personal Blog about IT Themes.</p>
+    </td>
+    </tr>
 </table>
 
 
