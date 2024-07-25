@@ -43,7 +43,7 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
     </td>
  <td style="text-align: center;">
       <a href="https://en.blog.agustin.top">
-        <img src="https://res.cloudinary.com/draig/image/upload/v1709756634/portolio-personal/arvueir4os53p12ufawc.ico" alt="C-UI Icon" width="100">
+        <img src="https://res.cloudinary.com/draig/image/upload/v1721879796/portolio-personal/icqgvg2j7br8opbasotz.png" alt="C-UI Icon" width="100">
       </a>
     </td>
     <td style="vertical-align: top;">
