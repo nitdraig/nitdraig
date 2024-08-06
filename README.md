@@ -80,13 +80,20 @@ I'm Agustin🌐 my mission is create star products. [ HTML, CSS, JavaScript, Rea
   <a href="https://www.youtube.com/@draig_dev">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+    
   <a href="https://twitter.com/nitdraig">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a>  <br/>
   <a href="https://cal.com/nitdraig">
     <img src="https://img.shields.io/badge/Take A Call With Me-purple?style=for-the-badge&logo=cal&logoColor=white" alt="Cal Badge"/>
+    <br/> 
   </a>
-
+    <a href="https://agustin.top">
+    <img src="https://img.shields.io/badge/Freelance Portfolio-gray?style=for-the-badge&logo=cal&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+     <a href="https://portfolio.agustin.top">
+    <img src="https://img.shields.io/badge/Technical Portfolio-white?style=for-the-badge&logo=cal&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </div>
 
 
