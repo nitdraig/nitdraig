@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Agustin</h1>
+<h1 align="center">Hi 👋, I'm Agustin😆</h1>
 <h3 align="center">Project Manager & Fullstack Web Developer from Argentina</h3>
 <div  align="center">
   
-   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t0dnc0dnY4aG9zb3BrbGRyZHYxdGthcnd2bXJ1Nnh1cTdyc2FqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6gvnAxj2ISzJdbA63/giphy-downsized.gif" alt="GIF"/>
+   <img  height="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG85OHM4enpjYmc4MjIyMGQ4bmJzNGR6Y2xjbGpvcncycnR4OWFmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="GIF"/>
    
 </div>
 
@@ -123,3 +123,11 @@ I'm Agustin🌐 my mission is create star products. [ HTML, CSS, JavaScript, Rea
 
 - [How to use Mailprex](https://www.youtube.com/watch?v=jUFbzTwiytU) <br/>
 - [Final Project - LLM Application Development](https://www.youtube.com/watch?v=vSYIJVm0-eM) <br/>
+
+## Thank you for your time, have a nice day🥳
+
+<div  align="center">
+  
+   <img  height="180px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t0dnc0dnY4aG9zb3BrbGRyZHYxdGthcnd2bXJ1Nnh1cTdyc2FqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6gvnAxj2ISzJdbA63/giphy-downsized.gif" alt="GIF"/>
+   
+</div>
