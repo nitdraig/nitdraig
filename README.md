@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Agustin😆</h1>
-<h3 align="center">Project Manager & Fullstack Web Developer from Argentina</h3>
 <div  align="center">
-  
-   <img  height="150px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG85OHM4enpjYmc4MjIyMGQ4bmJzNGR6Y2xjbGpvcncycnR4OWFmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="GIF"/>
-   
+<h1>Hi 👋, I'm Agustin😆 </h1>
+<h3>IT Project Manager & Fullstack Web Developer from Argentina⭐⭐⭐</h3>
+</div>
+<div  align="center"> 
+<img  height="150px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG85OHM4enpjYmc4MjIyMGQ4bmJzNGR6Y2xjbGpvcncycnR4OWFmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="GIF"/>
 </div>
 
 ## 💫 About Me:
 
 <div  align="center">
 I'm Agustin🌐 my mission is create star products. [ HTML, CSS, JavaScript, React, Next.js, Astro, Express, Node.js, Python, Typescript, MUI y Tailwind.] 🛠️<br>  <br> Front End Developer - Oracle Next Education 🍊 | FullStack Web Developer - Argentina Programa 💼 | QA - Tester - T.TEC CATAMARCA 🥚<br>🌟 Constantly improving my skills and passionate about web development. 🌐
-<br>Join me on LinkedIn and explore my web portfolio to discover more about me. 🚀🌟📝
+<br/>
+Join me on LinkedIn and explore my web portfolio to discover more about my projects. 🚀🌟📝
 
 <br/>
 <br/>
