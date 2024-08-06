@@ -68,7 +68,9 @@ Hello! 👋 I'm Agustín, a Project Manager & Fullstack Web Developer 🌐 my mi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitdraig&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<!-- BLOG-POSTS-START -->
+## The latest Posts from my Blog
 
-<!-- BLOG-POSTS-END -->
-
+- [The Importance of Organizational Culture](https://en.blog.agustin.top/posts/017_m1_sm4_google_course)
+- [Project Management Methodologies](https://en.blog.agustin.top/posts/016_m1_sm3_google_course)
+- [Basic Skills for a Successful Project Manager](https://en.blog.agustin.top/posts/015_m1_sm2_google_course)
+- [See All Posts😎](https://en.blog.agustin.top/blog)
