@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # Ejecuta una vez al día
   push:
     branches:
       - main
@@ -27,7 +27,6 @@ jobs:
 
       - name: Update README
         run: |
-          cat blog_posts.md >> README.md
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
