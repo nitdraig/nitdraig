@@ -8,15 +8,16 @@
 
 ## 💫 About Me:
 
-<div  align="center">
-I'm Agustin🌐 my mission is create star products. [ HTML, CSS, JavaScript, React, Next.js, Astro, Express, Node.js, Python, Typescript, MUI y Tailwind.] 🛠️<br>  <br> Front End Developer - Oracle Next Education 🍊 | FullStack Web Developer - Argentina Programa 💼 | QA - Tester - T.TEC CATAMARCA 🥚<br>🌟 Constantly improving my skills and passionate about web development. 🌐
+<div align="center">
+My mission is to collaborate in the development of star products.🌟<br/> 
+I lead high-level teams performance and focused on agile 📈<br/>
+Occasional gamer, music producer, amateur calisthenician and lover of audiovisual world🎨<br/>
+Front End Developer - Oracle Next Education 🍊 | FullStack Web Developer - Argentina Programa 💼 | QA - Tester - T.TEC CATAMARCA 🥚
 <br/>
-Join me on LinkedIn and explore my web portfolio to discover more about my projects. 🚀🌟📝
+Join me on LinkedIn and explore my web portfolio to discover more about my projects. 🚀📝
+<br/>
+<br/>  
 
-<br/>
-<br/>
-  
-  
 [![](https://visitcount.itsvg.in/api?id=nitdraig&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
