@@ -69,6 +69,14 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
     <td style="vertical-align: top;">
       <p><strong>My Blog</strong><br>A Personal Blog about IT.</p>
     </td>
+    <td style="text-align: center;">
+      <a href="https://roger.agustin.top">
+        <img src="https://res.cloudinary.com/draig/image/upload/v1723941619/portolio-personal/tse7kqpxwyrbgachsv4y.png" alt="Roger Icon" width="100">
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      <p><strong>Roger</strong><br>An AI financial consultant</p>
+    </td>
     </tr>
 </table>
 
