@@ -128,15 +128,15 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
 
 </div>
 
-## The latest Posts from my Blog
+## The latests Posts from my Blog
 
-- [The Importance of Organizational Culture](https://en.blog.agustin.top/posts/017_m1_sm4_google_course) <br/>
-- [Project Management Methodologies](https://en.blog.agustin.top/posts/016_m1_sm3_google_course)<br/>
-- [Basic Skills for a Successful Project Manager](https://en.blog.agustin.top/posts/015_m1_sm2_google_course)<br/>
+- [The Principles for Remote Teamwork - CASFF](https://en.blog.agustin.top/posts/019_principles_for_remote_teamwork) <br/>
+- [The Values ​​for Remote Teamwork - CASFF](https://en.blog.agustin.top/posts/020_values_for_remote_teamwork)<br/>
+- [Why do ideas fail? - Summary Talk](https://en.blog.agustin.top/posts/022_why_ideas_fail)<br/>
 - [See All Posts😎](https://en.blog.agustin.top/blog)<br/>
 
 
-## My lastests Video in Youtube
+## My lastests Videos in Youtube
 
 - [How to use Mailprex](https://www.youtube.com/watch?v=jUFbzTwiytU) <br/>
 - [Final Project - LLM Application Development](https://www.youtube.com/watch?v=vSYIJVm0-eM) <br/>
