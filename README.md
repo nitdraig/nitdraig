@@ -12,7 +12,7 @@
 My mission is to collaborate in the development of star products.🌟<br/> 
 I lead high-level teams performance and focused on agile 📈<br/>
 Occasional gamer, music producer, amateur calisthenician and lover of audiovisual world🎨<br/>
-Front End Developer - Oracle Next Education🍊| FullStack Web Developer - Argentina Programa💼| QA - Tester - T.TEC CATAMARCA🥚
+Google Project Management - From Google On Coursera👑 | Front End Developer - Oracle Next Education🍊| FullStack Web Developer - Argentina Programa💼| QA - Tester - T.TEC CATAMARCA🥚
 <br/>
 Join me on LinkedIn and explore my web portfolio to discover more about my projects. 🚀📝
 <br/>
