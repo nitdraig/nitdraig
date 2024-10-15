@@ -1,6 +1,6 @@
 <div  align="center">
 <h1>Hi 👋, I'm Agustin😆 </h1>
-<h3>IT Project Manager & Fullstack Web Developer from Argentina⭐⭐⭐</h3>
+<h3>Project Manager & Fullstack Web Developer from Argentina⭐⭐⭐</h3>
 </div>
 <div align="center"> 
 <img width="320px" height="150px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG85OHM4enpjYmc4MjIyMGQ4bmJzNGR6Y2xjbGpvcncycnR4OWFmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="GIF"/>
