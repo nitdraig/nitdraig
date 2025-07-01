@@ -27,6 +27,14 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
 <table>
   <tr>
     <td style="text-align: center;">
+      <a href="https://jema.excelso.xyz">
+        <img src="https://res.cloudinary.com/draig/image/upload/v1751400008/jema/imagen_2025-07-01_170005767_py0gtf.png" alt="Jema Icon" width="100">
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      <p><strong>JEMA</strong><br>Platform that uses artificial intelligence to promote transparency and sustainability in the extractive industry.</p>
+    </td>
+    <td style="text-align: center;">
       <a href="https://skipy.top">
         <img src="https://res.cloudinary.com/draig/image/upload/v1718659648/Skipy/dd2xu82at8rf5on5gfym.png" alt="Skipy Icon" width="100">
       </a>
@@ -76,8 +84,24 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
     </td>
     <td style="vertical-align: top;">
       <p><strong>Roger</strong><br>An AI financial consultant</p>
+    </td><td style="text-align: center;">
+      <a href="https://miningtalent.net">
+        <img src="https://res.cloudinary.com/draig/image/upload/v1751399915/excelso/mtn/imagen_2025-07-01_165831962_dxejcs.png" alt="MTN Icon" width="100">
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      <p><strong>Mining Talent</strong><br>Mining Talent Recruitment Platform</p>
     </td>
     </tr>
+    <td style="text-align: center;">
+      <a href="https://sigii.tips">
+        <img src="https://res.cloudinary.com/draig/image/upload/v1751400363/excelso/sigii/imagen_2025-07-01_170600573_zwymhm.png" alt="Sigii Icon" width="100">
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      <p><strong>Sigii</strong><br>Web platform with tools focused on optimizing educational management for different institutions.</p>
+    </td>
+    
 </table>
 
 
