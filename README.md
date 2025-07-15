@@ -25,84 +25,140 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
 ## 📌Some of my projects:
 
 <table>
-  <tr>
-    <td style="text-align: center;">
-      <a href="https://jema.excelso.xyz">
-        <img src="https://res.cloudinary.com/draig/image/upload/v1751400008/jema/imagen_2025-07-01_170005767_py0gtf.png" alt="Jema Icon" width="100">
-      </a>
-    </td>
-    <td style="vertical-align: top;">
-      <p><strong>JEMA</strong><br>Platform that uses artificial intelligence to promote transparency and sustainability in the extractive industry.</p>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://skipy.top">
-        <img src="https://res.cloudinary.com/draig/image/upload/v1718659648/Skipy/dd2xu82at8rf5on5gfym.png" alt="Skipy Icon" width="100">
-      </a>
-    </td>
-    <td style="vertical-align: top;">
-      <p><strong>Skipy</strong><br>Multi-tool focused on developers.</p>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://mailprex.top">
-        <img src="https://res.cloudinary.com/draig/image/upload/v1717633081/mailprex/iwzlpdbt3uclxt5mwll3.png" alt="Mailprex Icon" width="100">
-      </a>
-    </td>
-    <td style="vertical-align: top;">
-      <p><strong>Mailprex</strong><br>Platform for submitting forms with a react hook.</p>
-    </td>
-    <td style="text-align: center;">
+  <td style="text-align: center">
+    <a href="https://sigii.tips">
+      <img
+        src="https://res.cloudinary.com/draig/image/upload/v1751400363/excelso/sigii/imagen_2025-07-01_170600573_zwymhm.png"
+        alt="Sigii Icon"
+        width="100"
+      />
+    </a>
+  </td>
+  <td style="vertical-align: top">
+    <p>
+      <strong>Sigii</strong><br />Web platform with tools focused on optimizing
+      educational management for different institutions.
+    </p>
+  </td>
+  <td style="text-align: center">
+    <a href="https://jema.excelso.xyz">
+      <img
+        src="https://res.cloudinary.com/draig/image/upload/v1751400008/jema/imagen_2025-07-01_170005767_py0gtf.png"
+        alt="Jema Icon"
+        width="100"
+      />
+    </a>
+  </td>
+  <td style="vertical-align: top">
+    <p>
+      <strong>JEMA</strong><br />Platform that uses artificial intelligence to
+      promote transparency and sustainability in the extractive industry.
+    </p>
+  </td>
+  <td style="text-align: center">
+    <a href="https://miningtalent.net">
+      <img
+        src="https://res.cloudinary.com/draig/image/upload/v1751399915/excelso/mtn/imagen_2025-07-01_165831962_dxejcs.png"
+        alt="MTN Icon"
+        width="100"
+      />
+    </a>
+  </td>
+  <td style="vertical-align: top">
+    <p>
+      <strong>Mining Talent</strong><br />Mining Talent Recruitment Platform
+    </p>
+  </td>
+    <tr>
+     <td style="text-align: center">
       <a href="https://fuddy.click">
-        <img src="https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png" alt="Fuddy Icon" width="100">
+        <img
+          src="https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png"
+          alt="Fuddy Icon"
+          width="100"
+        />
       </a>
     </td>
-    <td style="vertical-align: top;">
-      <p><strong>Fuddy</strong><br>Healthy Recipe Recommendations WebApp with AI.</p>
+    <td style="vertical-align: top">
+      <p>
+        <strong>Fuddy</strong><br />Healthy Recipe Recommendations WebApp with
+        AI.
+      </p>
     </td>
-    
+    <td style="text-align: center">
+      <a href="https://skipy.top">
+        <img
+          src="https://res.cloudinary.com/draig/image/upload/v1718659648/Skipy/dd2xu82at8rf5on5gfym.png"
+          alt="Skipy Icon"
+          width="100"
+        />
+      </a>
+    </td>
+    <td style="vertical-align: top">
+      <p><strong>Skipy</strong><br />Multi-tool focused on developers.</p>
+    </td>
+    <td style="text-align: center">
+      <a href="https://mailprex.excelso.xyz">
+        <img
+          src="https://res.cloudinary.com/draig/image/upload/v1717633081/mailprex/iwzlpdbt3uclxt5mwll3.png"
+          alt="Mailprex Icon"
+          width="100"
+        />
+      </a>
+    </td>
+    <td style="vertical-align: top">
+      <p>
+        <strong>Mailprex</strong><br />Platform for submitting forms with a
+        react hook.
+      </p>
+    </td>
+   
   </tr>
   <tr>
-     <td style="text-align: center;">
+    <td style="text-align: center">
       <a href="https://c-ui.agustin.top">
-        <img src="https://c-ui.agustin.top/logo.png" alt="C-UI Icon" width="100">
+        <img
+          src="https://c-ui.agustin.top/logo.png"
+          alt="C-UI Icon"
+          width="100"
+        />
       </a>
     </td>
-    <td style="vertical-align: top;">
-      <p><strong>C-UI</strong><br>A simple component library for React/NextJS, using TailwindCSS.</p>
+    <td style="vertical-align: top">
+      <p>
+        <strong>C-UI</strong><br />A simple component library for React/NextJS,
+        using TailwindCSS.
+      </p>
     </td>
- <td style="text-align: center;">
+    <td style="text-align: center">
       <a href="https://en.blog.agustin.top">
-        <img src="https://res.cloudinary.com/draig/image/upload/v1721879796/portolio-personal/icqgvg2j7br8opbasotz.png" alt="C-UI Icon" width="100">
+        <img
+          src="https://res.cloudinary.com/draig/image/upload/v1721879796/portolio-personal/icqgvg2j7br8opbasotz.png"
+          alt="C-UI Icon"
+          width="100"
+        />
       </a>
     </td>
-    <td style="vertical-align: top;">
-      <p><strong>My Blog</strong><br>A Personal Blog about IT.</p>
+    <td style="vertical-align: top">
+      <p><strong>My Blog</strong><br />A Personal Blog about IT.</p>
     </td>
-    <td style="text-align: center;">
+    <td style="text-align: center">
       <a href="https://roger.agustin.top">
-        <img src="https://res.cloudinary.com/draig/image/upload/v1723941619/portolio-personal/tse7kqpxwyrbgachsv4y.png" alt="Roger Icon" width="100">
+        <img
+          src="https://res.cloudinary.com/draig/image/upload/v1723941619/portolio-personal/tse7kqpxwyrbgachsv4y.png"
+          alt="Roger Icon"
+          width="100"
+        />
       </a>
     </td>
-    <td style="vertical-align: top;">
-      <p><strong>Roger</strong><br>An AI financial consultant</p>
-    </td><td style="text-align: center;">
-      <a href="https://miningtalent.net">
-        <img src="https://res.cloudinary.com/draig/image/upload/v1751399915/excelso/mtn/imagen_2025-07-01_165831962_dxejcs.png" alt="MTN Icon" width="100">
-      </a>
+    <td style="vertical-align: top">
+      <p><strong>Roger</strong><br />An AI financial consultant</p>
     </td>
-    <td style="vertical-align: top;">
-      <p><strong>Mining Talent</strong><br>Mining Talent Recruitment Platform</p>
-    </td>
-    </tr>
-    <td style="text-align: center;">
-      <a href="https://sigii.tips">
-        <img src="https://res.cloudinary.com/draig/image/upload/v1751400363/excelso/sigii/imagen_2025-07-01_170600573_zwymhm.png" alt="Sigii Icon" width="100">
-      </a>
-    </td>
-    <td style="vertical-align: top;">
-      <p><strong>Sigii</strong><br>Web platform with tools focused on optimizing educational management for different institutions.</p>
-    </td>
-    
+  </tr>
 </table>
+
+
+
 
 
 
