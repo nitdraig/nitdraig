@@ -111,8 +111,7 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
         <strong>Mailprex</strong><br />Platform for submitting forms with a
         react hook.
       </p>
-    </td>
-   
+    </td>   
   </tr>
   <tr>
     <td style="text-align: center">
@@ -166,6 +165,17 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
       <td style="vertical-align: top">
       <p><strong>Encript-d</strong><br />AES-256-GCM encryption standard ensures your data is protected with the highest level of security.</p>
     </td>
+   <td style="text-align: center">
+      <a href="https://github.com/nitdraig/express-base/">
+        <img
+          src="https://github.com/nitdraig/express-base/blob/main/public/favicon.ico"
+          alt="Encript-d Icon"
+          width="100"
+        />
+      </a>
+      <td style="vertical-align: top">
+     <p><strong>Express Base</strong><br />A base express repository to create a MVP.</p>
+       </td>
     </td> 
    
 </table>
