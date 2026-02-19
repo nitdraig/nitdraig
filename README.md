@@ -86,9 +86,9 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
       </p>
     </td>
     <td style="text-align: center">
-      <a href="https://skipy.top">
+      <a href="https://skipy.click">
         <img
-          src="https://skipy.top/favicon.ico"
+          src="https://skipy.click/favicon.ico"
           alt="Skipy Icon"
           width="100"
         />
