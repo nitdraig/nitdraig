@@ -28,7 +28,7 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
   <td style="text-align: center">
     <a href="https://sigii.tips">
       <img
-        src="https://res.cloudinary.com/draig/image/upload/v1751400363/excelso/sigii/imagen_2025-07-01_170600573_zwymhm.png"
+        src="https://sigii.tips/favicon.ico"
         alt="Sigii Icon"
         width="100"
       />
@@ -43,7 +43,7 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
   <td style="text-align: center">
     <a href="https://jema.excelso.xyz">
       <img
-        src="https://res.cloudinary.com/draig/image/upload/v1751400008/jema/imagen_2025-07-01_170005767_py0gtf.png"
+        src="https://jema.excelso.xyz/favicon.ico"
         alt="Jema Icon"
         width="100"
       />
@@ -58,7 +58,7 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
   <td style="text-align: center">
     <a href="https://miningtalent.net">
       <img
-        src="https://res.cloudinary.com/draig/image/upload/v1751399915/excelso/mtn/imagen_2025-07-01_165831962_dxejcs.png"
+        src="https://miningtalent.net/favicon.ico"
         alt="MTN Icon"
         width="100"
       />
@@ -73,7 +73,7 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
      <td style="text-align: center">
       <a href="https://fuddy.click">
         <img
-          src="https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png"
+          src="https://fuddy.click/favicon.ico"
           alt="Fuddy Icon"
           width="100"
         />
@@ -88,7 +88,7 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
     <td style="text-align: center">
       <a href="https://skipy.top">
         <img
-          src="https://res.cloudinary.com/draig/image/upload/v1718659648/Skipy/dd2xu82at8rf5on5gfym.png"
+          src="https://skipy.top/favicon.ico"
           alt="Skipy Icon"
           width="100"
         />
@@ -100,7 +100,7 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
     <td style="text-align: center">
       <a href="https://mailprex.excelso.xyz">
         <img
-          src="https://res.cloudinary.com/draig/image/upload/v1717633081/mailprex/iwzlpdbt3uclxt5mwll3.png"
+          src="https://mailprex.excelso.xyz/favicon.ico"
           alt="Mailprex Icon"
           width="100"
         />
@@ -145,7 +145,7 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
     <td style="text-align: center">
       <a href="https://roger.agustin.top">
         <img
-          src="https://res.cloudinary.com/draig/image/upload/v1723941619/portolio-personal/tse7kqpxwyrbgachsv4y.png"
+          src="https://roger.agustin.top/favicon.ico"
           alt="Roger Icon"
           width="100"
         />
