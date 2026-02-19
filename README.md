@@ -133,7 +133,7 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
     <td style="text-align: center">
       <a href="https://en.blog.agustin.top">
         <img
-          src="https://res.cloudinary.com/draig/image/upload/v1721879796/portolio-personal/icqgvg2j7br8opbasotz.png"
+          src="https://en.blog.agustin.top/favicon.ico"
           alt="C-UI Icon"
           width="100"
         />
@@ -145,7 +145,7 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
     <td style="text-align: center">
       <a href="https://roger.agustin.top">
         <img
-          src="https://roger.agustin.top/favicon.ico"
+          src="https://github.com/nitdraig/roger/blob/main/static/public/favicon.ico"
           alt="Roger Icon"
           width="100"
         />
@@ -154,23 +154,31 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
     <td style="vertical-align: top">
       <p><strong>Roger</strong><br />An AI financial consultant</p>
     </td>
-  </tr>
+    </tr>
+       <td style="text-align: center">
+      <a href="https://encrypt-d.excelso.xyz">
+        <img
+          src="https://encrypt-d.excelso.xyz/favicon.svg"
+          alt="Encript-d Icon"
+          width="100"
+        />
+      </a>
+      <td style="vertical-align: top">
+      <p><strong>Encript-d</strong><br />AES-256-GCM encryption standard ensures your data is protected with the highest level of security.</p>
+    </td>
+    </td> 
+   
 </table>
-
-
-
-
 
 
 ## 🌐 Contact with me
 <div id="badges" align="center" >
-  <a href="https://linkedin.com/in/avellaneda-agustín-tns/">
+  <a href="https://linkedin.com/in/avellaneda-agustin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@draig_dev">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-    
   <a href="https://twitter.com/nitdraig">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>  <br/>
@@ -180,9 +188,6 @@ Join me on LinkedIn and explore my web portfolio to discover more about my proje
   </a>
     <a href="https://agustin.top">
     <img src="https://img.shields.io/badge/Freelance Portfolio-gray?style=for-the-badge&logo=cal&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-     <a href="https://portfolio.agustin.top">
-    <img src="https://img.shields.io/badge/Technical Portfolio-white?style=for-the-badge&logo=cal&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
