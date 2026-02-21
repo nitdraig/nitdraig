@@ -26,10 +26,11 @@
 
 | Project | Role | Description |
 | :--- | :--- | :--- |
-| ⛏️ **[Mining Talent](https://miningtalent.net)**| CTO / Dev / Co-Founder |  Specialized recruitment platform for the mining industry talent acquisition. |
-| 🥗 **[Fuddy](https://fuddy.click)** | PM / Dev / Co-Founder |  AI-powered WebApp providing healthy recipe recommendations and nutritional guidance.
-| 🌱 **[JEMA](https://jema.excelso.xyz)** | PM / Dev / Founder | AI-driven transparency and sustainability for the extractive industry. |
 | 🦘 **[Skipy](https://skipy.click)** | PM / Dev / Founder |  Multi-tool dashboard designed to speed up daily developer workflows. |
+| 🥗 **[Fuddy](https://fuddy.click)** | PM / Dev / Co-Founder |  AI-powered WebApp providing healthy recipe recommendations and nutritional guidance. |
+| ⛏️ **[Mining Talent](https://miningtalent.net)** | CTO / Dev / Co-Founder |  Specialized recruitment platform for the mining industry talent acquisition. |
+| 👟 **[Meet My Race](https://meetmyrace.com)** | PM / Dev / Co-Founder |  Platform for street and trail runners to organize the logistics of their races (travel, accommodation, transportation) and coordinate with each other in one place. |
+| 🌱 **[JEMA](https://jema.excelso.xyz)** | PM / Dev / Founder | AI-driven transparency and sustainability for the extractive industry. |
 
 ---
 
