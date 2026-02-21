@@ -1,253 +1,86 @@
-
-<div  align="center">
-<h1>Hi 👋, I'm Agustin😆 </h1>
-<h3>Project Manager & Fullstack Web Developer from Argentina⭐⭐⭐</h3>
-<div align="center"> 
-  <a href="https://excelso.xyz">
-<img width="160" height="75px" src="https://excelso.xyz/excelso-logo-1.png" alt="GIF"/>
-    </a>
-</div>
-</div>
-<div align="center"> 
-<img width="320px" height="150px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG85OHM4enpjYmc4MjIyMGQ4bmJzNGR6Y2xjbGpvcncycnR4OWFmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" alt="GIF"/>
-</div>
-
-
-
-## 💫 About Me:
+# Hi 👋, I'm Agustin 😆
 
 <div align="center">
-My mission is to collaborate in the development of star products.🌟<br/> 
-I lead high-level teams performance and focused on agile 📈<br/>
-Occasional gamer, music producer, amateur calisthenician and lover of audiovisual world🎨<br/>
-Google Project Management - From Google On Coursera👑 | Front End Developer - Oracle Next Education🍊| FullStack Web Developer - Argentina Programa💼| QA - Tester - T.TEC CATAMARCA🥚
-<br/>
-Join me on LinkedIn and explore my web portfolio to discover more about my projects. 🚀📝
-<br/>
-<br/>  
-
-[![](https://visitcount.itsvg.in/api?id=nitdraig&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
-
+  <img src="https://excelso.xyz/excelso-logo-1.png" width="160" alt="Excelso Logo"/>
+  <p><b>Project Manager & Fullstack Web Developer from Argentina ⭐⭐⭐</b></p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/avellaneda-agustin/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat-square&logo=google-chrome&logoColor=white)](https://agustin.top)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@draig_dev)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nitdraig)
 </div>
 
-## 📌Some of my projects:
+---
 
-<table>
-  <td style="text-align: center">
-    <a href="https://sigii.tips">
-      <img
-        src="https://sigii.tips/favicon.ico"
-        alt="Sigii Icon"
-        width="100"
-      />
-    </a>
-  </td>
-  <td style="vertical-align: top">
-    <p>
-      <strong>Sigii</strong><br />Web platform with tools focused on optimizing
-      educational management for different institutions.
-    </p>
-  </td>
-  <td style="text-align: center">
-    <a href="https://jema.excelso.xyz">
-      <img
-        src="https://jema.excelso.xyz/favicon.ico"
-        alt="Jema Icon"
-        width="100"
-      />
-    </a>
-  </td>
-  <td style="vertical-align: top">
-    <p>
-      <strong>JEMA</strong><br />Platform that uses artificial intelligence to
-      promote transparency and sustainability in the extractive industry.
-    </p>
-  </td>
-  <td style="text-align: center">
-    <a href="https://miningtalent.net">
-      <img
-        src="https://miningtalent.net/favicon.ico"
-        alt="MTN Icon"
-        width="100"
-      />
-    </a>
-  </td>
-  <td style="vertical-align: top">
-    <p>
-      <strong>Mining Talent</strong><br />Mining Talent Recruitment Platform
-    </p>
-  </td>
-    <tr>
-     <td style="text-align: center">
-      <a href="https://fuddy.click">
-        <img
-          src="https://fuddy.click/favicon.ico"
-          alt="Fuddy Icon"
-          width="100"
-        />
-      </a>
-    </td>
-    <td style="vertical-align: top">
-      <p>
-        <strong>Fuddy</strong><br />Healthy Recipe Recommendations WebApp with
-        AI.
-      </p>
-    </td>
-    <td style="text-align: center">
-      <a href="https://skipy.click">
-        <img
-          src="https://skipy.click/favicon.ico"
-          alt="Skipy Icon"
-          width="100"
-        />
-      </a>
-    </td>
-    <td style="vertical-align: top">
-      <p><strong>Skipy</strong><br />Multi-tool focused on developers.</p>
-    </td>
-    <td style="text-align: center">
-      <a href="https://mailprex.excelso.xyz">
-        <img
-          src="https://mailprex.excelso.xyz/favicon.ico"
-          alt="Mailprex Icon"
-          width="100"
-        />
-      </a>
-    </td>
-    <td style="vertical-align: top">
-      <p>
-        <strong>Mailprex</strong><br />Platform for submitting forms with a
-        react hook.
-      </p>
-    </td>   
-  </tr>
-  <tr>
-    <td style="text-align: center">
-      <a href="https://c-ui.agustin.top">
-        <img
-          src="https://c-ui.agustin.top/logo.png"
-          alt="C-UI Icon"
-          width="100"
-        />
-      </a>
-    </td>
-    <td style="vertical-align: top">
-      <p>
-        <strong>C-UI</strong><br />A simple component library for React/NextJS,
-        using TailwindCSS.
-      </p>
-    </td>
-    <td style="text-align: center">
-      <a href="https://en.blog.agustin.top">
-        <img
-          src="https://en.blog.agustin.top/favicon.ico"
-          alt="C-UI Icon"
-          width="100"
-        />
-      </a>
-    </td>
-    <td style="vertical-align: top">
-      <p><strong>My Blog</strong><br />A Personal Blog about IT.</p>
-    </td>
-    <td style="text-align: center">
-      <a href="https://roger.agustin.top">
-        <img
-          src="https://github.com/nitdraig/roger/blob/main/static/public/favicon.ico"
-          alt="Roger Icon"
-          width="100"
-        />
-      </a>
-    </td>
-    <td style="vertical-align: top">
-      <p><strong>Roger</strong><br />An AI financial consultant</p>
-    </td>
-    </tr>
-       <td style="text-align: center">
-      <a href="https://encrypt-d.excelso.xyz">
-        <img
-          src="https://encrypt-d.excelso.xyz/favicon.svg"
-          alt="Encript-d Icon"
-          width="100"
-        />
-      </a>
-      <td style="vertical-align: top">
-      <p><strong>Encript-d</strong><br />AES-256-GCM encryption standard ensures your data is protected with the highest level of security.</p>
-    </td>
-   <td style="text-align: center">
-      <a href="https://github.com/nitdraig/express-base/">
-        <img
-          src="https://github.com/nitdraig/express-base/blob/main/public/favicon.ico"
-          alt="Encript-d Icon"
-          width="100"
-        />
-      </a>
-      <td style="vertical-align: top">
-     <p><strong>Express Base</strong><br />A base express repository to create a MVP.</p>
-       </td>
-    </td> 
-   
-</table>
+### 🚀 Management & Vision
+> "Collaborating in the development of **star products** through agile leadership and high-performance teams."
 
+* **🎓 Certifications**: Google Project Management | Front End (Oracle) | FullStack (Arg Programa).
+* **💡 Philosophy**: Focus on transparency, scalability, and UX-driven development.
+* **🎨 Beyond Code**: Music producer, audiovisual enthusiast, and calisthenics amateur.
 
-## 🌐 Contact with me
-<div id="badges" align="center" >
-  <a href="https://linkedin.com/in/avellaneda-agustin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@draig_dev">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/nitdraig">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>  <br/>
+---
+
+## 🌟 Star Projects
+*Flagship products focused on high-level solutions and innovation.*
+
+| Project | Role | Description |
+| :--- | :--- | :--- |
+| ⛏️ **[Mining Talent](https://miningtalent.net)**| CTO / Dev / Co-Founder |  Specialized recruitment platform for the mining industry talent acquisition. |
+| 🥗 **[Fuddy](https://fuddy.click)** | PM / Dev / Co-Founder |  AI-powered WebApp providing healthy recipe recommendations and nutritional guidance.
+| 🌱 **[JEMA](https://jema.excelso.xyz)** | PM / Dev / Founder | AI-driven transparency and sustainability for the extractive industry. |
+| 🦘 **[Skipy](https://skipy.click)** | PM / Dev / Founder |  Multi-tool dashboard designed to speed up daily developer workflows. |
+
+---
+
+## 💼 Freelance & Client Work
+*Solutions built to solve specific business needs and market demands.*
+* 🩺 **[AroundNotes](https://aroundnotes.ai)**: Generate quality medical notes, provide access to PHI-secure AI models, and optimize clinical workflows.
+* 🎓 **[Sigii](https://sigii.tips)**: Web platform optimizing educational management for institutions.
+* 🤖 **[Roger](https://roger.agustin.top)**: Personal AI financial consultant for smart money management.
+* ⛑️ **[DC Consultura](https://dcconsultora.com.ar)**: A personalized website with an exclusive design, focused on the consultancy, its needs and on par with the client's criteria.
+* 🐾 **[Huellitas Cartagena](https://www.huellitasctgna.com)**: Website for animal rescue NGO. I led product and project management.
+* 📝 **[My Blog](https://en.blog.agustin.top)**: A personal IT space to share knowledge on remote teamwork and agile values.
+
+---
+
+## 🔓 Open Source & Dev Tools
+*Giving back to the community with tools that make engineering faster.*
+
+* 🧱 **[C-UI](https://c-ui.agustin.top)**: A simple, modular component library for React/NextJS using TailwindCSS.
+* 🏗️ **[Mailprex](https://mailprex.excelso.xyz)**: Headless form submission platform with a dedicated React hook.
+* 🔐 **[Encript-d](https://encrypt-d.excelso.xyz)**: AES-256-GCM encryption utility for high-level data security.
+* 📦 **[Express Base](https://github.com/nitdraig/express-base/)** - Production-ready boilerplate to launch MVPs at ludicrous speed.
+
+---
+
+## 💻 Tech Stack
+
+### 📈 Management & Productivity
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white)
+
+### 🚀 Development & Cloud
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+
+---
+
+## 📊 Stats & Activity
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitdraig&theme=react&hide_border=falsee" height="150" />
+</div>
+
+---
+
+## 📢 Let's Connect
+<div align="center">
   <a href="https://cal.com/nitdraig">
-    <img src="https://img.shields.io/badge/Take A Call With Me-purple?style=for-the-badge&logo=cal&logoColor=white" alt="Cal Badge"/>
-    <br/> 
-  </a>
-    <a href="https://agustin.top">
-    <img src="https://img.shields.io/badge/Freelance Portfolio-gray?style=for-the-badge&logo=cal&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Book_A_Discovery_Call-purple?style=for-the-badge&logo=cal&logoColor=white" alt="Cal Badge"/>
   </a>
 </div>
 
-
-
-
-# 💻 Tech Stack:
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-</div>
-
-# 📊 GitHub Stats:
-
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=nitdraig&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nitdraig&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitdraig&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-</div>
-
-## The latests Posts from my Blog
-
-- [The Principles for Remote Teamwork - CASFF](https://en.blog.agustin.top/posts/019_principles_for_remote_teamwork) <br/>
-- [The Values ​​for Remote Teamwork - CASFF](https://en.blog.agustin.top/posts/020_values_for_remote_teamwork)<br/>
-- [Why do ideas fail? - Summary Talk](https://en.blog.agustin.top/posts/022_why_ideas_fail)<br/>
-- [See All Posts😎](https://en.blog.agustin.top/blog)<br/>
-
-
-## My lastests Videos in Youtube
-
-- [How to use Mailprex](https://www.youtube.com/watch?v=jUFbzTwiytU) <br/>
-- [Final Project - LLM Application Development](https://www.youtube.com/watch?v=vSYIJVm0-eM) <br/>
+---
 
 ## Thank you for your time, have a nice day🥳
-
 <div  align="center">
-  
    <img  height="180px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t0dnc0dnY4aG9zb3BrbGRyZHYxdGthcnd2bXJ1Nnh1cTdyc2FqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6gvnAxj2ISzJdbA63/giphy-downsized.gif" alt="GIF"/>
-   
 </div>
