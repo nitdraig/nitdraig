@@ -50,6 +50,7 @@
 ## 🔓 Open Source & Dev Tools
 *Giving back to the community with tools that make engineering faster.*
 
+* 🫀 **[Pulse](https://pulse.excelso.xyz)**: Register backends, store Bearer tokens encrypted in MongoDB, and watch latency, errors, and business KPIs together — built for the Excelso command center.
 * 🧱 **[C-UI](https://c-ui.agustin.top)**: A simple, modular component library for React/NextJS using TailwindCSS.
 * 🏗️ **[Mailprex](https://mailprex.excelso.xyz)**: Headless form submission platform with a dedicated React hook.
 * 🔐 **[Encript-d](https://encrypt-d.excelso.xyz)**: AES-256-GCM encryption utility for high-level data security.
