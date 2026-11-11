@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://excelso.xyz/excelso-logo-1.png" width="160" alt="Excelso Logo"/>
   <p><b>Project Manager & Fullstack Web Developer from Argentina ⭐⭐⭐</b></p>
+  <p>AI-Driven PM · FullStack · MBA</p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/avellaneda-agustin/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat-square&logo=google-chrome&logoColor=white)](https://agustin.top)
@@ -15,8 +16,8 @@
 ### 🚀 Management & Vision
 > "Collaborating in the development of **star products** through agile leadership and high-performance teams."
 
-* **🎓 Certifications**: Google Project Management | Front End (Oracle) | FullStack (Arg Programa).
-* **💡 Philosophy**: Focus on transparency, scalability, and UX-driven development.
+* **🎓 Certifications**: MBA (Master of Business Administration) · Google Project Management · Front End (Oracle) · FullStack (Arg Programa).
+* **💡 Philosophy**: Focus on transparency, scalability, and UX-driven development with a business-oriented mindset.
 * **🎨 Beyond Code**: Music producer, audiovisual enthusiast, and calisthenics amateur.
 
 ---
@@ -27,17 +28,17 @@
 | Project | Role | Description |
 | :--- | :--- | :--- |
 | 🚀 **[Flowfolio](https://flowfolio.space)** | Dev / Founder | One complete platform to manage projects, clients, tasks and deliveries. |
-| 🦘 **[Skipy](https://skipy.click)** | PM / Dev / Founder |  Multi-tool dashboard designed to speed up daily developer workflows. |
-| 🥗 **[Fuddy](https://fuddy.click)** | PM / Dev / Co-Founder |  AI-powered WebApp providing healthy recipe recommendations and nutritional guidance. |
-| ⛏️ **[Mining Talent](https://miningtalent.net)** | CTO / Dev / Co-Founder |  Specialized recruitment platform for the mining industry talent acquisition. |
-| 👟 **[Meet My Race](https://meetmyrace.com)** | PM / Dev / Co-Founder |  Platform for street and trail runners to organize the logistics of their races (travel, accommodation, transportation) and coordinate with each other in one place. |
-| 🧪 **[Experimental App](https://experimental.global)** | Dev / Co-Founder / CTO | Platform to manage hackatons events to Experimental Global. |
-| 🌱 **[JEMA](https://jema.excelso.xyz)** | PM / Dev / Founder | AI-driven transparency and sustainability for the extractive industry. |
+| 🦘 **[Skipy](https://skipy.click)** | PM / Dev / Founder | Multi-tool dashboard designed to speed up daily developer workflows. |
+| 🥗 **[Fuddy](https://fuddy.click)** | PM / Dev / Co-Founder | AI-powered WebApp providing healthy recipe recommendations and nutritional guidance. |
+| ⛏️ **[Mining Talent](https://miningtalent.net)** | CTO / Dev / Co-Founder | Specialized recruitment platform for the mining industry talent acquisition. |
+| 👟 **[Meet My Race](https://meetmyrace.com)** | PM / Dev / Co-Founder | Platform for street and trail runners to organize the logistics of their races (travel, accommodation, transportation) and coordinate with each other in one place. |
+| 🧪 **[Experimental App](https://experimental.global)** | Dev / Co-Founder / CTO | Platform to manage hackathons events for Experimental Global. |
 
 ---
 
 ## 💼 Freelance & Client Work
 *Solutions built to solve specific business needs and market demands.*
+
 * 🩺 **[AroundNotes](https://aroundnotes.ai)**: Generate quality medical notes, provide access to PHI-secure AI models, and optimize clinical workflows.
 * 🎓 **[Sigii](https://sigii.tips)**: Web platform optimizing educational management for institutions.
 * 🤖 **[Roger](https://roger.agustin.top)**: Personal AI financial consultant for smart money management.
@@ -54,7 +55,7 @@
 * 🧱 **[C-UI](https://c-ui.agustin.top)**: A simple, modular component library for React/NextJS using TailwindCSS.
 * 🏗️ **[Mailprex](https://mailprex.excelso.xyz)**: Headless form submission platform with a dedicated React hook.
 * 🔐 **[Encript-d](https://encrypt-d.excelso.xyz)**: AES-256-GCM encryption utility for high-level data security.
-* 📦 **[Express Base](https://github.com/nitdraig/express-base/)** - Production-ready boilerplate to launch MVPs at ludicrous speed.
+* 📦 **[Express Base](https://github.com/nitdraig/express-base/)**: Production-ready boilerplate to launch MVPs at ludicrous speed.
 
 ---
 
@@ -70,7 +71,7 @@
 
 ## 📊 Stats & Activity
 <div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitdraig&theme=react&hide_border=falsee" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitdraig&theme=react&hide_border=false" height="150" />
 </div>
 
 ---
